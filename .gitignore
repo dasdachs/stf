@@ -1,0 +1,21 @@
+# Node
+**/node_modules/**
+dist
+npm-error*
+tsconfig.tsbuildinfo
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Tests
+coverage
+.jest-cache
+
+# Project
+.vscode
+.idea
+
+# Misc
+.DS_Store
